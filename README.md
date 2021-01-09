@@ -22,7 +22,7 @@ yarn add --dev gen-i18n
 ```
 
 ```shell
-gen-i18n -m "./src/pages/**/*.md" -l "en, fr, ko" -c "./gen-i18n.config.json"
+gen-i18n -m "./src/pages/**/*.{md, mdx}" -l "en, fr, ko" -c "./gen-i18n.config.json"
 ```
 
 <img src="./assets/before.png" width="300px">
