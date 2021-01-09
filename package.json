@@ -1,12 +1,12 @@
 {
   "name": "gen-i18n",
-  "version": "1.0.1",
-  "main": "index.js",
+  "version": "1.0.2",
+  "main": "src/index.js",
   "repository": "https://github.com/ahabhgk/gen-i18n.git",
   "author": "ahabhgk <ahabhgk@gmail.com>",
   "license": "MIT",
   "bin": {
-    "gen-i18n": "index.js"
+    "gen-i18n": "src/index.js"
   },
   "devDependencies": {
     "eslint": "^7.17.0",
