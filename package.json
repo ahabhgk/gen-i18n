@@ -1,0 +1,23 @@
+{
+  "name": "gen-i18n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ahabhgk/gen-i18n.git",
+  "author": "ahabhgk <ahabhgk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "minimist": "^1.2.5",
+    "remark": "^13.0.0",
+    "remark-frontmatter": "^3.0.0",
+    "remark-mdx": "^1.6.22",
+    "to-vfile": "^6.1.0",
+    "unist-util-visit": "^2.0.3",
+    "yaml": "^1.10.0",
+    "youdao-fanyi": "^2.0.0"
+  }
+}

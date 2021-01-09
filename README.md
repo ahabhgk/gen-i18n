@@ -1,1 +1,1 @@
-# gatsby-plugin-auto-i18n
+# gen-i18n
