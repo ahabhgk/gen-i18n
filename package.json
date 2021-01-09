@@ -5,6 +5,9 @@
   "repository": "https://github.com/ahabhgk/gen-i18n.git",
   "author": "ahabhgk <ahabhgk@gmail.com>",
   "license": "MIT",
+  "bin": {
+    "gen-i18n": "index.js"
+  },
   "devDependencies": {
     "eslint": "^7.17.0",
     "eslint-config-google": "^0.14.0"
